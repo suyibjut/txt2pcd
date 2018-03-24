@@ -1,0 +1,3 @@
+/home/gitplace/txt2pcd/build/CMakeFiles/edit_cache.dir
+/home/gitplace/txt2pcd/build/CMakeFiles/rebuild_cache.dir
+/home/gitplace/txt2pcd/build/CMakeFiles/txt2pcd.dir
