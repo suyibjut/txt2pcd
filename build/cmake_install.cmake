@@ -1,4 +1,4 @@
-# Install script for directory: /home/gitplace/txt2pcd
+# Install script for directory: /home/suyi/suyi/test4/txt2pcd/txt2pcd
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/gitplace/txt2pcd/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/suyi/suyi/test4/txt2pcd/txt2pcd/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
